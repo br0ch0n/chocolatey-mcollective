@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>mcollective</id>
+    <version>2.5.3</version>
+    <title>mcollective</title>
+    <authors>Puppet Labs</authors>
+    <owners>Puppet Labs</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>http://puppetlabs.com</projectUrl>
+    <iconUrl>https://raw.github.com/ferventcoder/chocolateyautomaticpackages/master/puppet/puppet.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Marionette Collective</description>
+    <summary>The Marionette Collective</summary>
+    <releaseNotes />
+    <copyright>Puppet Labs</copyright>
+    <tags>puppet mcollective marionette collective</tags>
+  </metadata>
+</package>
